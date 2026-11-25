@@ -1,2 +1,1 @@
-# R25EI007
-My Github repository  for learning and practicing development tools.
+Hello! I am a student passionate about technology, programming, and software development. This repository showcases my learning journey, practical experiments, and hands-on experience with development tools such as Python, Java, Git, and Visual Studio Code. I aim to continuously improve my technical skills, explore new technologies, and build innovative projects.
