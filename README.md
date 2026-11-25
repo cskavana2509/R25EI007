@@ -9,7 +9,6 @@ A simple Python program that prints Hello, World!
 A basic Java program demonstrating standard output.
 
 ### 3. Development Tools Practice
-Exploring VS Code extensions such as Prettier, GitLens, and Live Share.
-=======
+Exploring VS Code extensions such as Prettier, GitLens, and Live Share
 
  main
