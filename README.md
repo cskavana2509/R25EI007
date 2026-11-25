@@ -11,4 +11,12 @@ A basic Java program demonstrating standard output.
 ### 3. Development Tools Practice
 Exploring VS Code extensions such as Prettier, GitLens, and Live Share
 
- main
+## Collaboration Log
+
+**Partner Name:** K Indupriya
+
+**GitHub Username:** @indupriyakamwar13
+
+**What We Built:** We collaborated to create and test a greet() function using VS Code Live Share.
+
+**One Thing I Learned:** I learned how to collaborate in real time, share code changes, and credit contributors using Git co-authored commits.
